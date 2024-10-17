@@ -3,3 +3,5 @@ collections:
   version: 1.5.4
 - name: community-general-9.3.0.tar.gz
   version: 9.3.0
+- name: community-postgresql-3.7.0.tar.gz
+  version: 3.7.0
